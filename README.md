@@ -103,3 +103,66 @@
 </div>
 
 ---
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Ruhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Ruhan&theme=tokyo-night&hide_border=true)](https://github.com/Md-Ruhan)
+
+</div>
+
+---
+# 🌐 Connect With Me
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+
+<a href="https://www.linkedin.com/in/md-ruhan-hussain">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+
+<br><br>
+
+<b>LinkedIn</b>
+
+</a>
+
+</td>
+
+<td align="center" width="220">
+
+<a href="https://www.facebook.com/share/1DP3GnndX4/">
+
+<img src="https://skillicons.dev/icons?i=facebook" width="60"/>
+
+<br><br>
+
+<b>Facebook</b>
+
+</a>
+
+</td>
+
+<td align="center" width="220">
+
+<a href="mailto:ruhanhussainofficial@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+
+<br><br>
+
+<b>Gmail</b>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
