@@ -165,4 +165,47 @@
 </table>
 
 ---
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/Md-Ruhan">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Ruhan&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Md-Ruhan">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Md-Ruhan&repo=YOUR_SECOND_REPOSITORY&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+<h2 align="center">⚡ Current Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,js,html,css,git,github,vscode,postman"/>
+
+</p>
+
+---
+<h2 align="center">🎯 2026 Goals</h2>
+
+- 🚀 Build Full Stack Projects
+- 🌱 Learn React & Next.js
+- 💼 Contribute to Open Source
+- 🏆 Participate in More Hackathons
+- 📚 Improve Problem Solving Skills
+
+---
+<h2 align="center">💭 Developer Quote</h2>
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+</div>
+
+---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
