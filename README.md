@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Ruhan%20Hussain&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38"/>
 
-<h1>Hi 👋, I'm Muhammad Ruhan Hussain</h1>
+<h1>Hi👋, I'm Muhammad Ruhan Hussain</h1>
 
 <h3>💻 Full Stack Web Developer | 🇧🇩 Bangladesh</h3>
 
@@ -19,7 +19,7 @@
 </div>
 
 ---
-# 🚀 About Me
+About Me
 
 <table>
 
@@ -27,21 +27,19 @@
 
 <td width="55%">
 
-- 🎓 CSE Student
+ 🎓 CSE Student
 
-- 💻 Full Stack Web Developer
+ 💻 Full Stack Web Developer
 
-- 🌱 Currently Learning Backend Development
+ 🌱 Currently Learning Backend Development
 
-- 🚀 Working with Node.js & Express.js
+ 🚀 Working with Node.js & Express.js
 
-- 🏆 Techathon Enthusiast
+ 📧 ruhanhussainofficial@gmail.com
 
-- 📧 ruhanhussainofficial@gmail.com
+ ⚡ Love Building Useful Projects
 
-- ⚡ Love Building Useful Projects
-
-- 🇧🇩 Bangladesh
+ 🇧🇩 Bangladesh
 
 </td>
 
@@ -56,7 +54,7 @@
 </table>
 
 ---
-# 💻 Languages
+Languages
 
 <p align="center">
 
@@ -65,7 +63,7 @@
 </p>
 
 ---
-# 🛠️ Tools
+Tools
 
 <p align="center">
 
@@ -165,7 +163,7 @@
 </table>
 
 ---
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
