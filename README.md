@@ -74,3 +74,32 @@
 </p>
 
 ---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Md-Ruhan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ruhan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Md-Ruhan&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Md-Ruhan&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
