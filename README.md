@@ -71,3 +71,34 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ruhan&theme=tokyonight&hide_border=true"/>
 
 </p>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-Ruhan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Ruhan&theme=tokyo-night&hide_border=true"/>
+</p>
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/md-ruhan-hussain">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/1DP3GnndX4/">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:ruhanhussainofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00B4DB,100:0083B0"/>
